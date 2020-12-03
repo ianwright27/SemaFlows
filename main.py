@@ -80,3 +80,4 @@ root = Tk()
 root.geometry('800x600')
 gui = MainWindow(root)
 root.mainloop()
+# main window
