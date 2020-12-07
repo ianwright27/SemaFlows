@@ -71,3 +71,5 @@ class AppConfig:
         self.description = "Semantic Networks Design Tool"
         self.features = []
 
+
+LABEL_TEXT = [f"Welcome to {app.name}"]
