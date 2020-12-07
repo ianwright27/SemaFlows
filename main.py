@@ -1,4 +1,6 @@
 from tkinter import Tk, Label, Button, StringVar, Frame, Menu
+# modules
+from MainWindow import * # main features
 
 
 app = AppConfig()
